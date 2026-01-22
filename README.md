@@ -53,3 +53,4 @@ Always use .env files and python-dotenv to load keys securely.
 # License
 
 This project is open-source and available under the MIT License.
+Project for portfolio
